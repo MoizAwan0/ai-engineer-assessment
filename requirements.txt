@@ -1,0 +1,10 @@
+openai
+anthropic
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+pypdf
